@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, I'm Daniel 👋
 
-<!--
-**daniel-zeyuli/daniel-zeyuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an incoming **Rotman Commerce** student at the University of Toronto, building at the intersection of **AI, business, and finance**.
 
-Here are some ideas to get you started:
+I like turning friction I notice in everyday tools into small products people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔭 What I'm working on
+
+- **AI Chat Exporter for Google Docs** — a Chrome extension that exports ChatGPT, Gemini, and Claude responses into properly formatted Google Docs, with native editable math equations. Published on the Chrome Web Store.
+- **Laundry App** — a scheduling tool for residential life at my school *(coming soon)*.
+- Exploring what an **AI-native personal assistant** could look like for students and knowledge workers.
+
+#### 🛠️ Tech I work with
+
+JavaScript · Chrome Extensions · Firebase · OAuth · DOCX/OMML · React (learning)
+
+#### 🎯 What I care about
+
+Building useful things. Learning fast. Combining technical skills with business thinking.
+
+#### 📫 How to reach me
+
+- 📧 daniel.zeyuli@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/daniel-zeyuli
+
+---
+
+*"The best way to predict the future is to build it."*
